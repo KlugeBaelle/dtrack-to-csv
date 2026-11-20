@@ -8,7 +8,7 @@ import (
 	"sort"
 	"strings"
 
-	"gitea.funkehaus.de/main/dtrack-cve/internal/dtrack"
+	"github.com/KlugeBaelle/dtrack-to-csv/internal/dtrack"
 )
 
 var resolvedStates = map[string]bool{

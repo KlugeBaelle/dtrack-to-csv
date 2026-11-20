@@ -7,7 +7,7 @@ import (
 	"io"
 	"strings"
 
-	"gitea.funkehaus.de/main/dtrack-cve/internal/assessment"
+	"github.com/KlugeBaelle/dtrack-to-csv/internal/assessment"
 )
 
 const listSeparator = ";"

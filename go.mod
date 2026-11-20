@@ -1,4 +1,4 @@
-module gitea.funkehaus.de/main/dtrack-cve
+module github.com/KlugeBaelle/dtrack-to-csv
 
 go 1.25.5
 

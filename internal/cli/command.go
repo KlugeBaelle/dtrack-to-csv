@@ -13,11 +13,11 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"
 
-	"gitea.funkehaus.de/main/dtrack-cve/internal/assessment"
-	"gitea.funkehaus.de/main/dtrack-cve/internal/config"
-	"gitea.funkehaus.de/main/dtrack-cve/internal/cveid"
-	"gitea.funkehaus.de/main/dtrack-cve/internal/dtrack"
-	"gitea.funkehaus.de/main/dtrack-cve/internal/report"
+	"github.com/KlugeBaelle/dtrack-to-csv/internal/assessment"
+	"github.com/KlugeBaelle/dtrack-to-csv/internal/config"
+	"github.com/KlugeBaelle/dtrack-to-csv/internal/cveid"
+	"github.com/KlugeBaelle/dtrack-to-csv/internal/dtrack"
+	"github.com/KlugeBaelle/dtrack-to-csv/internal/report"
 )
 
 const standardStream = "-"

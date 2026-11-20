@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"testing"
 
-	"gitea.funkehaus.de/main/dtrack-cve/internal/dtrack"
+	"github.com/KlugeBaelle/dtrack-to-csv/internal/dtrack"
 )
 
 type fakeSource struct {

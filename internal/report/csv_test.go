@@ -5,7 +5,7 @@ import (
 	"errors"
 	"testing"
 
-	"gitea.funkehaus.de/main/dtrack-cve/internal/assessment"
+	"github.com/KlugeBaelle/dtrack-to-csv/internal/assessment"
 )
 
 type failingWriter struct{}

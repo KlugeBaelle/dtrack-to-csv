@@ -6,7 +6,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 
-	"gitea.funkehaus.de/main/dtrack-cve/internal/cli"
+	"github.com/KlugeBaelle/dtrack-to-csv/internal/cli"
 )
 
 func main() {
